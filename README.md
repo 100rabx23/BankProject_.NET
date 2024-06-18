@@ -31,7 +31,7 @@ This project is a simple banking system application developed in C# with the .NE
 ## Screenshots
 
 ### Registration Screen
-![Registration Screen](screenshots/registration_screen.png)
+![Registration Screen](img/img1.jpeg)
 
 ### Login Screen
 ![Login Screen](screenshots/login_screen.png)
