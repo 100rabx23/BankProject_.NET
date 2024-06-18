@@ -18,8 +18,8 @@ This project is a simple banking system application developed in C# with the .NE
 
 ## Features
 
-- User registration
-- User login
+- Welcome page
+- User login/Signup
 - View account balances
 - Simple and intuitive user interface
 
@@ -30,11 +30,11 @@ This project is a simple banking system application developed in C# with the .NE
 
 ## Screenshots
 
-### Registration Screen
-![Registration Screen](img/img1.jpeg)
+### Welcome Page
+![Welcome page](img/img2.jpeg)
 
 ### Login Screen
-![Login Screen](screenshots/login_screen.png)
+![Login Screen](img/img1.jpeg)
 
 ## Installation
 
