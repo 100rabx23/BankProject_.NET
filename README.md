@@ -6,6 +6,7 @@ A small banking system created using C# and .NET. This application provides basi
 
 - [Overview](#overview)
 - [Features](#features)
+- [Upcoming Features](#upcoming-features)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -36,17 +37,17 @@ This project is a simple banking system application developed in C# with the .NE
 ### Login Screen
 ![Login Screen](img/img1.jpeg)
 
-### After Signup Screen 
+### After Signup Screen
 ![After Signup Screen](img/img3.jpeg)
 
-### Main Dashboard 
+### Main Dashboard
 ![Main Dashboard](img/img4.jpeg)
 
 ## Installation
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/BankProject_.NET.git
+    git clone https://github.com/100rabx23/BankProject_.NET.git
     ```
 
 2. Navigate to the project directory:
