@@ -36,6 +36,12 @@ This project is a simple banking system application developed in C# with the .NE
 ### Login Screen
 ![Login Screen](img/img1.jpeg)
 
+### After Signup Screen 
+![After Signup Screen](img/img3.jpeg)
+
+### Main Dashboard 
+![Main Dashboard](img/img4.jpeg)
+
 ## Installation
 
 1. Clone the repository:
